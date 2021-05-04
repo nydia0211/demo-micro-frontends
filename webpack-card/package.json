@@ -1,0 +1,14 @@
+{
+  "name": "demo-micro-frontend-card",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "serve": "webpack serve"
+  },
+  "dependencies": {
+    "html-webpack-plugin": "^4.5.0",
+    "webpack": "^5.4.0",
+    "webpack-cli": "^4.2.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
